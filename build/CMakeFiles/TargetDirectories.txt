@@ -1,3 +1,0 @@
-C:/Users/leona/OneDrive/Área de Trabalho/github/Study_Threads_And_Memory/build/CMakeFiles/Threads.dir
-C:/Users/leona/OneDrive/Área de Trabalho/github/Study_Threads_And_Memory/build/CMakeFiles/edit_cache.dir
-C:/Users/leona/OneDrive/Área de Trabalho/github/Study_Threads_And_Memory/build/CMakeFiles/rebuild_cache.dir
